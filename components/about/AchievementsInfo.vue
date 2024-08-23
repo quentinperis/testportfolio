@@ -23,11 +23,11 @@ export default {
   data() {
     return {
       achievementsContent: [
-        { id: 1, title: "12", subTitle1: "years of", subTitle2: "experience" },
-        { id: 2, title: "97", subTitle1: "completed", subTitle2: "projects" },
-        { id: 3, title: "81", subTitle1: "Happy", subTitle2: "customers" },
-        { id: 4, title: "53", subTitle1: "awards", subTitle2: "won" },
-      ],
+  { id: 1, title: "5", subTitle1: "years of", subTitle2: "experience in France" },
+  { id: 2, title: "4", subTitle1: "years spent", subTitle2: "in South America" },
+  { id: 3, title: "1", subTitle1: "year of", subTitle2: "career transition into web development" },
+  { id: 4, title: "3", subTitle1: "languages spoken : ", subTitle2: "French, English, Spanish" },
+]
     };
   },
 };

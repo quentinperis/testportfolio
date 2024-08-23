@@ -71,9 +71,9 @@ export default {
         heroImage: `/assets/images/hero/dark.jpg`,
         heroMobileImage: `/assets/images/hero/img-mobile.jpg`,
         heroTitleName: "quentin peris",
-        heroDesignation: "développeur web",
-        heroDescriptions: `Je suis développeur web full stack basé à Lille. J'adore créer des sites design et faciles d'utilisation. Je veux continuer d'apprendre sans cesse pour arriver à faire ce qu'il y a de mieux.`,
-        heroBtn: "Mes informations",
+        heroDesignation: "Web developper",
+        heroDescriptions: `I’m a web developer who creates responsive and user-friendly websites. I handle both front-end and back-end work. My focus is on delivering effective digital solutions.`,
+        heroBtn: "More about me",
       },
     };
   },

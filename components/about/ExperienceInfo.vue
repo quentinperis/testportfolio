@@ -23,28 +23,25 @@ export default {
       experienceContent: [
         {
           id: 1,
-          year: "   2018 - Present",
-          position: " Web Developer",
-          compnayName: "Envato",
-          details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+          year: "   2018 - 2023",
+          position: " Technician.",
+          compnayName: "CARSAT",
+          details: `After 4 years in a permanent position, I decided to start a career change.`,
         },
         {
-          id: 2,
-          year: "2013 - 2018",
-          position: " UI/UX Designer",
-          compnayName: "Themeforest",
-          details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
-        },
-        {
-          id: 3,
-          year: "2005 - 2013",
-          position: "Consultant",
-          compnayName: "Videohive",
-          details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
-        },
+  id: 2,
+  year: "2015 - 2017",
+  position: "CEO",
+  compnayName: "Boutique Magnifique",
+  details: `From 2015 to 2017 in Chile, I was the CEO of a ready-to-wear boutique called Magnifique.`,
+},
+{
+  id: 3,
+  year: "2015",
+  position: "Commercial Representative",
+  compnayName: "IE COMEX",
+  details: `In Chile, I worked as a Commercial Representative for SMEs seeking to export.`,
+}
       ],
     };
   },

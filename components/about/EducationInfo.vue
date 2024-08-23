@@ -23,27 +23,24 @@ export default {
       educationContent: [
         {
           id: 1,
-          year: "2015",
-          degree: "ENGINEERING DEGREE",
-          institute: "OXFORD UNIVERSITY",
-          details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+          year: "2024 - 2026",
+          degree: "CONCEPTEUR DEVELOPPEUR APPLICATION",
+          institute: "2I ACADEMY",
+          details: ` Seeking a Contrat de Professionnalisation starting at the end of September 2024.`,
         },
         {
           id: 2,
-          year: "2012",
-          degree: "MASTER DEGREE",
-          institute: "KIEV UNIVERSITY",
-          details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+          year: "2023 - 2024",
+          degree: "DWWM - Développeur Web et Web Mobile",
+          institute: "M2I FORMATION",
+          details: `Graduated in July 2024, I am currently in a CDA booster training program.`,
         },
         {
           id: 3,
-          year: "2009",
-          degree: "BACHELOR DEGREE ",
-          institute: "TUNIS HIGH SCHOOL",
-          details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+          year: "2016",
+          degree: "MASTER DEGREE",
+          institute: "ISCID-CO",
+          details: `Master's degree in International Business, with 4 years spent in South America.`,
         },
       ],
     };

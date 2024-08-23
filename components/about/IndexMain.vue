@@ -27,7 +27,7 @@
             </div>
             <!-- {/* End personal info */} -->
             <div class="col-12 mt-1">
-              <a class="button" href="/sample.pdf" download>
+              <a class="button" href="/CvQuentinPeris.pdf" download>
                 <span class="button-text">Download CV</span>
                 <span class="button-icon fa fa-download"></span>
               </a>
