@@ -39,7 +39,7 @@
                   :href="preview.routerPath"
                   @click="() => handleDarkMode(preview.mode)"
                 >
-                  view demo
+                  view mode
                 </nuxt-link>
               </h6>
             </div>
@@ -52,14 +52,14 @@
 
   <footer>
     <div class="go_purchase">
-      <h6 data-aos="fade-up" data-aos-duration="1200">
+      <!-- <h6 data-aos="fade-up" data-aos-duration="1200">
         You are at the right step now
       </h6>
       <h3 data-aos="fade-up" data-aos-duration="1200" data-aos-delay="100">
         Purchase Tunis & Build Your
         <span class="theme-color">Vue NuxtJS 3</span> &amp;
         <span class="theme-color">Bootstrap 5 </span> Based Portfolio Template.
-      </h3>
+      </h3> -->
       <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
         <a
           class="button"
@@ -72,7 +72,7 @@
         </a>
       </div>
     </div>
-    <!-- {/* End go_purchase */} -->
+   <!-- {/* End go_purchase */}  -->
 
     <div class="text-center footer_copyright">
       <h6>Tunis - Personal Portfolio Vue Nuxtjs Template</h6>

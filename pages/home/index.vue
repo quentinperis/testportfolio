@@ -40,12 +40,12 @@
         </li>
         <!-- End icon-box -->
 
-        <li class="icon-box" role="presentation">
+        <!-- <li class="icon-box" role="presentation">
           <button data-bs-toggle="tab" data-bs-target="#blog">
             <i class="fa fa-comments"></i>
             <h2>Blog</h2>
           </button>
-        </li>
+        </li> -->
         <!-- End icon-box -->
       </ul>
     </header>

@@ -15,16 +15,16 @@ export default {
       SocialShare: [
         {
           id: 1,
-          iconName: "fa fa-facebook",
-          link: "https://www.facebook.com/",
+          iconName: "fa fa-linkedin",
+          link: "https://www.linkedin.com/in/quentin-peris//",
         },
-        { id: 2, iconName: "fa fa-twitter", link: "https://twitter.com/" },
-        {
-          id: 3,
-          iconName: "fa fa-youtube",
-          link: "https://www.youtube.com/",
-        },
-        { id: 4, iconName: "fa fa-dribbble", link: "https://dribbble.com/" },
+        { id: 2, iconName: "fa fa-github", link: "https://github.com/quentinperis" },
+        // {
+        //   id: 3,
+        //   iconName: "fa fa-youtube",
+        //   link: "https://www.youtube.com/",
+        // },
+        // { id: 4, iconName: "fa fa-dribbble", link: "https://dribbble.com/" },
       ],
     };
   },

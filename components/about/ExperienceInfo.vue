@@ -24,7 +24,7 @@ export default {
         {
           id: 1,
           year: "   2018 - 2023",
-          position: " Technician.",
+          position: " Technician",
           compnayName: "CARSAT",
           details: `After 4 years in a permanent position, I decided to start a career change.`,
         },
