@@ -75,7 +75,7 @@
    <!-- {/* End go_purchase */}  -->
 
     <div class="text-center footer_copyright">
-      <h6>Tunis - Personal Portfolio Vue Nuxtjs Template</h6>
+      <h6>Quentin Peris - Personal Portfolio Vue Nuxtjs Template</h6>
       <h5>
         &copy; {{ new Date().getFullYear() }} Designed with
         <span class="heart">&#10084;</span> by
@@ -84,7 +84,7 @@
           target="_blank"
           rel="noreferrer"
         >
-          ib-themes
+          Quentin Peris
         </a>
       </h5>
     </div>
