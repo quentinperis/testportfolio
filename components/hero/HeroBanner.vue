@@ -70,13 +70,10 @@ export default {
       heroContent: {
         heroImage: `/assets/images/hero/dark.jpg`,
         heroMobileImage: `/assets/images/hero/img-mobile.jpg`,
-        heroTitleName: "steve milner",
-        heroDesignation: "web designer",
-        heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
-        crafting clean & user‑friendly experiences, I am passionate about
-        building excellent software that improves the lives of those
-        around me.`,
-        heroBtn: "more about me",
+        heroTitleName: "quentin peris",
+        heroDesignation: "développeur web",
+        heroDescriptions: `Je suis développeur web full stack basé à Lille. J'adore créer des sites design et faciles d'utilisation. Je veux continuer d'apprendre sans cesse pour arriver à faire ce qu'il y a de mieux.`,
+        heroBtn: "Mes informations",
       },
     };
   },

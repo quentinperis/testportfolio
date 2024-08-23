@@ -16,16 +16,16 @@ export default {
   data() {
     return {
       personalInfoContent: [
-        { id: 1, meta: "first name", metaInfo: "Steve" },
-        { id: 2, meta: "last name", metaInfo: "Milner" },
-        { id: 3, meta: "Age", metaInfo: "27 Years" },
-        { id: 4, meta: "Nationality", metaInfo: "Tunisian" },
-        { id: 5, meta: "Freelance", metaInfo: "Available" },
-        { id: 6, meta: "Address", metaInfo: "Tunis" },
-        { id: 7, meta: "phone", metaInfo: "+21621184010" },
-        { id: 8, meta: "Email", metaInfo: "you@mail.com" },
-        { id: 9, meta: "Skype", metaInfo: " steve.milner" },
-        { id: 10, meta: "langages", metaInfo: "French, English" },
+        { id: 1, meta: "first name", metaInfo: "Quentin" },
+        { id: 2, meta: "last name", metaInfo: "Peris" },
+        { id: 3, meta: "Age", metaInfo: "34 ans" },
+        { id: 4, meta: "Nationality", metaInfo: "Français" },
+        { id: 5, meta: "Freelance", metaInfo: "Disponible" },
+        { id: 6, meta: "Address", metaInfo: "Lille" },
+        { id: 7, meta: "phone", metaInfo: "+33675124151" },
+        { id: 8, meta: "Email", metaInfo: "quentin.peris@icloud.com" },
+        { id: 9, meta: "Skype", metaInfo: " quentin.peris" },
+        { id: 10, meta: "langages", metaInfo: "French, English, Spanish" },
       ],
     };
   },

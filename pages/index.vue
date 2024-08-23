@@ -1,8 +1,8 @@
 <template>
   <section class="banner text-center">
     <div class="content">
-      <h1>Tunis</h1>
-      <h2>Personal Portfolio Vue NuxtJS 3 Template</h2>
+      <h1>Quentin</h1>
+      <h2>Bienvenue dans mon Portfolio</h2>
     </div>
   </section>
   <!-- {/* End .banner */} -->
@@ -63,11 +63,11 @@
       <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
         <a
           class="button"
-          href="https://themeforest.net/item/tunis-personal-portfolio-vuejs-3-template/38726577"
+          href="https://fr.linkedin.com/in/quentin-peris"
           target="_blank"
           rel="noreferrer"
         >
-          <span class="button-text"> Purchase Now</span>
+          <span class="button-text"> Mon Linkedin</span>
           <span class="button-icon fa fa-arrow-right"></span>
         </a>
       </div>
