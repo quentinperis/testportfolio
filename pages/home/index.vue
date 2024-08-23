@@ -143,7 +143,7 @@
 
 <script setup>
 useSeoMeta({
-  title: "Home ||  Tunis - Personal Portfolio Vue Nuxtjs Template",
+  title: "Home ||  Quentin PERIS - Personal Portfolio",
 });
 
 import HeroBanner from "@/components/hero/HeroBanner.vue";
