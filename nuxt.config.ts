@@ -9,7 +9,10 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/image"],
+
   routeRules: {
     '/': { redirect: '/home' }
-  }
+  },
+
+  compatibilityDate: "2024-08-30"
 });
